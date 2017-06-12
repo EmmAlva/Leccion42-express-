@@ -1,0 +1,19 @@
+{
+  "name": "cinelaboratoria",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emma Tapia (https://github.com/EmmAlva?tab=repositories)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "level": "^1.7.0",
+    "leveldown": "^1.7.2",
+    "levelup": "^1.3.8"
+  }
+}
